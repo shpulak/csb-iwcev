@@ -1,0 +1,17 @@
+{
+  "short_name": "Chaska",
+  "name": "Chaska",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#50e3c2",
+  "splash_pages": null,
+  "background_color": "#ffffff"
+}
